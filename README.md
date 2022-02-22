@@ -1,4 +1,4 @@
-# clase10
+# Clase 10
 APi con express y frontend Angular
 
 Frontend https://github.com/Jamesblack1/PlayStore
